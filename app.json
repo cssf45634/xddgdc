@@ -1,0 +1,14 @@
+{
+    "name": "hdkb",
+    "description": "dfg",
+    "logo":"dhu",
+    "keywords": ["hujrf"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/cssf45634/xddgdc.git",
+    "stack": "container"
+}
